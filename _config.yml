@@ -1,8 +1,10 @@
 ### your site title here
 
-title: Hagura - Light!
+title: Alirezaly
+tagline: A blog by Alireza Bashiri
+description: A blog by Alireza Bashiri
 baseurl: "" # name of the repository
-email: your@email.com
+email: alirezaly@outlook.com
 
 
 
@@ -14,10 +16,10 @@ paginate: 4
 
 
 # Tracker
-analytics: UA-83979019-4
+analytics: G-MLB3W67KZP
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: false
 
 
 #optimization

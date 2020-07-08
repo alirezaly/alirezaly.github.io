@@ -20,7 +20,7 @@ body {
     }
 
     h1,h2,h3,h4,h5,h6 {
-         font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+         font-family: "Texta", "Helvetica Neue", Helvetica, sans-serif;
          font-weight: bold;
          line-height: 1;
          margin: 0;
@@ -33,6 +33,7 @@ a {
     text-decoration: none;
     &:hover{
      color: $text-color;
+     text-decoration: underline;
     }
 }
 
@@ -97,6 +98,8 @@ blockquote {
 
 .headline, .post-headline {
     font-size: 4em;
+    font-family: 'Texta', sans-serif;
+    text-decoration: underline;
     margin-bottom: 0.5em;
 
         @include media-query($on-palm) {
